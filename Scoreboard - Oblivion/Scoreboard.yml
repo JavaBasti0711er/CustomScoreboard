@@ -1,0 +1,32 @@
+Displayname: "&6&lOblivionMC"
+Score1: "&d       "
+Score2: "&f&6&l* %playername%"
+Score3: "&f    "
+Score4: "&6&l* %serverrank%"
+Score5: "&6&l* &eRank: %miningrank%"
+Score6: "&6&l* &ePrestige: &6%prestige%"
+Score7: "&8      "
+Score8: "&6&l* &eBalance: &6%balance%"
+Score9: "&6&l* &eTokens: &6%tokens%"
+Score10: "&6&l* &eSpins: &6%spins%"
+Score11: "&d         "
+Score12: "&6&l* &ePlayers: &6%onlineplayers%/%maxplayers%"
+Score13: "&b      "
+Score14: "&6&l* &eBlocks: &6%blocksbroken%"
+Score15: "&9      "
+
+Score1boolean: true
+Score2boolean: true
+Score3boolean: true
+Score4boolean: true
+Score5boolean: true
+Score6boolean: true
+Score7boolean: true
+Score8boolean: true
+Score9boolean: true
+Score10boolean: true
+Score11boolean: true
+Score12boolean: true
+Score13boolean: true
+Score14boolean: true
+Score15boolean: true
