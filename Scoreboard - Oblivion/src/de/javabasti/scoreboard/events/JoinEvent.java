@@ -22,7 +22,7 @@ public class JoinEvent implements Listener {
 				sm.load();
 				CreateScoreboard.updateScoreboard(p);
 			}
-		}, 0, 20L);
+		}, 0, 40L);
 	}
 
 }
